@@ -1,0 +1,11 @@
+Debugging & Root Cause Analysis
+1. Growth driver sustainability initiative
+2. 3 layer conveyor system 4 month story
+3. ISOTP sync  error (Motor wheelbase SPI slave prapration timing issue)
+4. SPI error preapre
+5. Rebase issue
+6. CAN adapter USB detection issue
+7. Display issue 2406 formula v3
+8. Encoder issue P2111
+9. Miss shift issue
+10. ITM issue with fanatec app not changing the page
